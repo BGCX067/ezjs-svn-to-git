@@ -1,0 +1,26 @@
+#labels Featured
+=Tutorial=
+
+First off i will show you a simple examples that prints, Hello World! to the screen.
+
+{{{
+<html>
+<head>
+<script type="text/javascript" src="ezjs.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+zprint("Hello World!");
+</script>
+</body>
+<html>
+}}}
+The big part off the program is the third line there. It tells the script to add the library.
+
+The next big thing is the line of code that says:
+
+{{{
+zprint("Hello World!");
+}}}
+
+It is telling it to print hello world to the screen.
